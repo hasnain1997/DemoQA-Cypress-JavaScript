@@ -1,0 +1,12 @@
+{
+  "fullName": "Gerimedica BV",
+  "email": "test@test.com",
+  "gender" : "Male",
+  "mobileNumber" : "0123456789",
+  "dob" : "15 January,1990",
+  "subject" : "",
+  "hobbies" : "Reading",
+  "picture" : "",
+  "address" : "Netherlands",
+  "stateAndCity" : "NCR Delhi"
+}
